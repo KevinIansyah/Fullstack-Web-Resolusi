@@ -1,0 +1,7 @@
+11/02/23 : HTML
+15/02/23 : CSS
+20/02/23 : Java Sript Dasar
+28/02/23 : DOM
+03/03/23 : Java Script Lanjutan
+10/03/23 : Tailwind
+20/03/23 : VueJS
